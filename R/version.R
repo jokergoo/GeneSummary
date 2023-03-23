@@ -6,9 +6,9 @@
 # == example
 # GeneSummary
 GeneSummary = list(
-	built_date = "2022-09-30",
+	built_date = "2023-03-22",
 	source = "https://ftp.ncbi.nih.gov/refseq/release/complete/*.rna.gbff.gz",
-	refseq_version = "214",
+	refseq_version = "217",
 	orgainsms = 129
 
 )
